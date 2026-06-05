@@ -146,37 +146,37 @@ function openQuiz() {
     console.log("Starting next quiz");
     switch (openThisQuiz) {
         case 'Adventuring':
-            window.open("https://www.freekigames.com/wizard101-adventuring-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/wizard101-adventuring-trivia", "Quiz");
             break;
         case 'Conjuring':
-            window.open("https://www.freekigames.com/wizard101-conjuring-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/wizard101-conjuring-trivia", "Quiz");
             break;
         case 'Magical':
-            window.open("https://www.freekigames.com/wizard101-magical-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/wizard101-magical-trivia", "Quiz");
             break;
         case 'Marleybone':
-            window.open("https://www.freekigames.com/wizard101-marleybone-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/wizard101-marleybone-trivia", "Quiz");
             break;
         case 'Mystical':
-            window.open("https://www.freekigames.com/wizard101-mystical-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/wizard101-mystical-trivia", "Quiz");
             break;
         case 'Spellbinding':
-            window.open("https://www.freekigames.com/wizard101-spellbinding-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/wizard101-spellbinding-trivia", "Quiz");
             break;
         case 'Spells':
-            window.open("https://www.freekigames.com/wizard101-spells-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/wizard101-spells-trivia", "Quiz");
             break;
         case 'Valencia':
-            window.open("https://www.freekigames.com/pirate101-valencia-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/pirate101-valencia-trivia", "Quiz");
             break;
         case 'Wizard City':
-            window.open("https://www.freekigames.com/wizard101-wizard-city-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/wizard101-wizard-city-trivia", "Quiz");
             break;
         case 'Zafaria':
-            window.open("https://www.freekigames.com/wizard101-zafaria-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/wizard101-zafaria-trivia", "Quiz");
             break;
         default:
-            window.open("https://www.freekigames.com/wizard101-adventuring-trivia", "Quiz");
+            window.open("https://www.wizard101.com/quiz/trivia/game/wizard101-adventuring-trivia", "Quiz");
             break;
     }
 }
